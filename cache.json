@@ -1,0 +1,98 @@
+{
+  "program": {
+    "candyMachine": "7TF4RSaAVLcRvgZnqvMpn1nesaXYE84TwNvHxEPkVChP",
+    "candyGuard": "",
+    "candyMachineCreator": "Hp5TXD1oR1veMEUbwnVWP5Hjx6fY7GHCsPq9RpKoZGGH",
+    "collectionMint": "o7okEgbe1jdCT7YRtTuYrCJnU3nXVLbPEtfD2vn6RkN"
+  },
+  "items": {
+    "-1": {
+      "name": "Studious Crabs Collection",
+      "image_hash": "8a6c05a0241f9e6802a60c96db1d596b4f68d731d65d9a4754f79e384433854c",
+      "image_link": "https://arweave.net/fzEt9Ise978xdtT8ilv2MpBl-Z1Lb1DXEgpuqq7toCA?ext=png",
+      "metadata_hash": "b012e6cfe5cce4e2a9d92d12dd3a1dc31e8e18ec9adf453e9681c9af1f0430eb",
+      "metadata_link": "https://arweave.net/DW4OjFJvkhDkxDTbbsCbMhTvfywvNk-7wbVLwtcEK_8",
+      "onChain": true
+    },
+    "0": {
+      "name": "Studious Crab #1",
+      "image_hash": "6f16570562658640b3dc6b6dd7e5b94190d2f8bd5c5a0aa0a4d0bba20c7fd612",
+      "image_link": "https://arweave.net/t8H4Kz4AqIWM1GB00cQD_FY_jMyqFfF4t6442pZ7lA0?ext=png",
+      "metadata_hash": "074caa218d24b04164410bed6a9287ce74590c168fa56a35a11d20c144d60223",
+      "metadata_link": "https://arweave.net/KCi6nyUtnyBSn1ubDq1E92ThiJjMGpjDlxpYOEEOQbs",
+      "onChain": true
+    },
+    "1": {
+      "name": "Studious Crab #2",
+      "image_hash": "d527d7faf0e0064e2c527909a740aaec670ea505ad07b109e940099d5e5781e2",
+      "image_link": "https://arweave.net/iKx4leo4CcaW3ovf65PkwdlD8zvZXGRO2GrnK1TBXc4?ext=png",
+      "metadata_hash": "d64d51c6467c2e4941acd763cf18175862566840f5db649765fbb49c88fca779",
+      "metadata_link": "https://arweave.net/ISpf18W6leNTe_G1TExe12hIlyqLczVAVOVqscrq9a0",
+      "onChain": true
+    },
+    "2": {
+      "name": "Studious Crab #3",
+      "image_hash": "82763aecbf910695ef0bf1311152e2b6c2e9578a8d0d85f3ada320abb9b3551b",
+      "image_link": "https://arweave.net/0E-307qk9fWg3sbiRDWRNi7Q7h7LRDW7ZvbGi8ngyjU?ext=png",
+      "metadata_hash": "dcd454f43c9ae16977bcb0f9217119749f62194b5d72f38c6e84a7c2619d8326",
+      "metadata_link": "https://arweave.net/zACtPLiwXNI1ZqspegKeEYpCJk_fRz5UhryHkMLktzE",
+      "onChain": true
+    },
+    "3": {
+      "name": "Studious Crab #4",
+      "image_hash": "05d9bed9f734103efc131a0ad0a88b0dbbf46afdd8f7a6b179e8ea7e1b37f046",
+      "image_link": "https://arweave.net/BcgZJybJmbwpQdilpWgeGoqptJfuDNTgGFCvhU0hILg?ext=png",
+      "metadata_hash": "fefed6ff414425ecf1fe68b439bdc53e0c0146264dc615d28f417a32b40864a8",
+      "metadata_link": "https://arweave.net/yGXX51uY2N1hdhOMM3_XPjzI_P_yNUjQ7F5Gy4onV70",
+      "onChain": true
+    },
+    "4": {
+      "name": "Studious Crab #5",
+      "image_hash": "92906e1988a4c58125799c3636a567ec47fca77e15ef6a326be07bc4d8a0522c",
+      "image_link": "https://arweave.net/Ww5hNzvSLKU2CV0loV5KP8q_1wWZoc1Mxk8_DVZclnk?ext=png",
+      "metadata_hash": "54c19837e73da4e840da330d5661f28b826c9ff2fd183745c6770793157652c5",
+      "metadata_link": "https://arweave.net/dFj2psQc5XM2LLt2LC7igs6Qkb5NVA5SWZfWDDLScsw",
+      "onChain": true
+    },
+    "5": {
+      "name": "Studious Crab #6",
+      "image_hash": "ecf8012c1bedc8d481d20540d47813318c02edfef1080b712155896147b056d9",
+      "image_link": "https://arweave.net/i_nou7c4TGAF1n26gOQ8vpWbqPBKRZE69XpeVLDDCgE?ext=png",
+      "metadata_hash": "0d6685e5acbe8b38bd693ba23567c4db66dd7197a06a40792847b40696749903",
+      "metadata_link": "https://arweave.net/Idg-csUjs7Ck0Tc3nolA8mLQfwZ4kz5yVnQ7L1wnM_A",
+      "onChain": true
+    },
+    "6": {
+      "name": "Studious Crab #7",
+      "image_hash": "ffe705980fde6a9fbc6cb29b3505d467499c4e78af08f486bf2cd6f7b3f27151",
+      "image_link": "https://arweave.net/pVO9KbnyprQwbHmjWFsBB3JAG_e9wrcyc22dNh9ogEU?ext=png",
+      "metadata_hash": "ee2c1ab37efd54dab2684960f2ae1edfdc7c238cb5ae658108abc3587222a431",
+      "metadata_link": "https://arweave.net/r6JY1zDa4l4ZmmkNaH_idwK_Jl52eFtj43-oecW6Zy0",
+      "onChain": true
+    },
+    "7": {
+      "name": "Studious Crab #8",
+      "image_hash": "babd4f81cf056ce35bae9b1330c9c1b13f440ad2a3632c862e5594994a30a5b7",
+      "image_link": "https://arweave.net/ZVDk8C8Vwu4t1cDiCifpNZT_YGV6JW_pxycVNCRbNwU?ext=png",
+      "metadata_hash": "d26e02980a5d126344f2b27c29d3ea4448f33488ae6d733954c11bbe03b20e7e",
+      "metadata_link": "https://arweave.net/Y1oa7vof_DuFR_njVkkAmDAOvJe75VcJUqs5dkrxvlY",
+      "onChain": true
+    },
+    "8": {
+      "name": "Studious Crab #9",
+      "image_hash": "c95e11874e94a27b547e5e7457f974a8d299c8c0066f3bf4430aa9c24e03835f",
+      "image_link": "https://arweave.net/afljyonxKUb_3KofFjcT852PdUBYJQjxZzx-OetuiUs?ext=png",
+      "metadata_hash": "357aa90e0539810fae64764d364c37243beef692e567514b0d8a7bc069d69e3c",
+      "metadata_link": "https://arweave.net/Q4QojLzgSqH0BmPm0H02a2_B6FXQ42D1HHxYoTbRolo",
+      "onChain": true
+    },
+    "9": {
+      "name": "Studious Crab #10",
+      "image_hash": "4c16db39492bc794fbde16cf0aa0abe5f172fa88a45bd2e4afdfea782af241d5",
+      "image_link": "https://arweave.net/hh2uWhhhDP_NGg_M3M6DaedNc4sROB4M2abEbh-JlWo?ext=png",
+      "metadata_hash": "6679d16ce6ee2f22f101337c78b130fa917826fd947e372521fffec72f380a17",
+      "metadata_link": "https://arweave.net/jrwywq_aEITdmCx229BhgupK9NLi-aE2B8T9lXy0TOo",
+      "onChain": true
+    }
+  }
+}
